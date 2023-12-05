@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "navi",
+      "college": "chaithanya",
+      "address": "warangal"
+    },
+    {
+      "id": 3,
+      "name": "rahul",
+      "college": "gouthami",
+      "address": "siddipet"
+    },
+    {
+      "id": 4,
+      "name": "siddarth",
+      "college": "nri school",
+      "address": "karimnagar"
+    },
+    {
+      "name": "ramu",
+      "collge": "ramu",
+      "address": "yyyyy",
+      "id": 5
+    },
+    {
+      "name": "navi",
+      "collge": "nalandha",
+      "address": "nellore",
+      "id": 6
+    },
+    {
+      "name": "t",
+      "collge": "m",
+      "address": "i",
+      "id": 7
+    },
+    {
+      "name": "55",
+      "collge": "66",
+      "address": "77",
+      "id": 9
+    }
+  ]
+}
